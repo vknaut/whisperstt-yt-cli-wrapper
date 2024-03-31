@@ -20,8 +20,7 @@ This project enables users to transcribe the audio from YouTube videos using Ope
 * pip for installing Python packages
 * Internet connection for downloading YouTube audio and Whisper models'
 
-## Requirements.txt
-
+## Install prerequisite requirements 
 ### - Using requirements.txt:
 - To install the requirements for your project, navigate to the directory containing requirements.txt in your terminal or command prompt.
 - Run the following command:
