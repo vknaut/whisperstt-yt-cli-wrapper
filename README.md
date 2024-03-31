@@ -21,7 +21,7 @@ This project enables users to transcribe the audio from YouTube videos using Ope
 * Internet connection for downloading YouTube audio and Whisper models'
 
 ## Install prerequisite requirements 
-### - Using requirements.txt:
+### Using requirements.txt:
 - To install the requirements for your project, navigate to the directory containing requirements.txt in your terminal or command prompt.
 - Run the following command:
   ```sh
