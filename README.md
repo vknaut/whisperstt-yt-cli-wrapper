@@ -11,8 +11,8 @@ This project enables users to transcribe the audio from YouTube videos using Ope
 
 ## Getting Started
 - Clone the Repository: Start by cloning this repository to your local machine.
-- Installation: Ensure you have Python installed, then run pip install -r requirements.txt to install the necessary packages, including yt-dlp and openai-whisper.
-- Run the Script: Execute the script by running python youtube_transcribe.py from your terminal. Follow the on-screen prompts to enter the YouTube link, output filename/path, model size (optional), and language (optional).
+- Installation: Ensure you have Python installed, then run pip install -r requirements.txt to install the necessary packages, including yt-dlp and openai-whisper.  
+- Run the Script: Execute the script by running python transcribe_youtube.py from your terminal. Follow the on-screen prompts to enter the YouTube link, output filename/path, model size (optional), and language (optional).
 - View the Transcription: Once the transcription process is complete, the transcribed text will be saved to the specified output file. Progress updates during transcription will be displayed in the terminal.
 
 ## Prerequisites
